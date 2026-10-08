@@ -281,17 +281,6 @@ Traditional accuracy is not applicable. We use:
 5. **Learning path links** — Link each missing skill to free learning resources (Coursera, YouTube).
 6. **Collaborative filtering** — Recommend jobs based on similar users' choices.
 
----
-
-## 📌 SDG 8 Connection
-
-**Sustainable Development Goal 8** targets:
-> *"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all."*
-
-This project directly contributes by:
-- Helping fresh graduates enter the workforce faster.
-- Reducing the mismatch between job seekers and job requirements.
-- Providing a free, accessible tool for career planning.
 
 ---
 
