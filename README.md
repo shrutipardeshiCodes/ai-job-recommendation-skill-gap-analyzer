@@ -1,7 +1,6 @@
 # 🎯 AI Job Recommendation & Skill Gap Analyzer
 
-> **SDG 8 — Decent Work and Economic Growth**  
-> Helping students and freshers find suitable job opportunities and identify the skills they need to develop.
+ Helping students and freshers find suitable job opportunities and identify the skills they need to develop.
 
 ---
 
