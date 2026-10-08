@@ -284,4 +284,3 @@ Traditional accuracy is not applicable. We use:
 
 ---
 
-*Built for academic demonstration — B.Tech CSE Final Year Project*
